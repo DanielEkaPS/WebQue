@@ -1,2 +1,5 @@
 # WebQue
-Projek Website untuk UAS Manajemen Proyek oleh 20.N1.0008, 20.N1.0007, 20.N1.0015
+Projek Website untuk UAS Manajemen Proyek oleh:
+Daniel Eka Pratama Sanjaya - 20.N1.0008
+Nicholas Dwiki Tanoto - 20.N1.0007
+Bellarmino Bintang Pradipta - 20.N1.0015
